@@ -1,0 +1,12 @@
+.ipynb_checkpoints
+WIP/
+__pycache__/
+.ipynb_checkpoints
+*.log
+*.swp
+.DS_Store
+__MACOSX
+__pycache__
+
+/CDGaussian/
+*.pyc
